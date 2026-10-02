@@ -1,0 +1,24 @@
+{
+  "name": "builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profchauchuty/builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/profchauchuty/builder/issues"
+  },
+  "homepage": "https://github.com/profchauchuty/builder#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
